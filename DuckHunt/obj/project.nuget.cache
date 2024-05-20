@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "bHKjaMxKoiV9Lgg2nLVHeJRtjEGRndEOUYBdFfZtD5sqRNhwCDrZ1c8ZT7UwfONwAlCU4f9D3tM5FtSNpuA43A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nicol\\OneDrive - De Vinci\\Bureau\\ESPAGNE TRAVAIL\\DATABASES AND INTEROPERABILITY WITH C\\DuckHunt\\DuckHunt.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nicol\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.1\\microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
+    "C:\\Users\\nicol\\.nuget\\packages\\mysqlconnector\\2.3.7\\mysqlconnector.2.3.7.nupkg.sha512",
+    "C:\\Users\\nicol\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\nicol\\.nuget\\packages\\system.diagnostics.diagnosticsource\\7.0.2\\system.diagnostics.diagnosticsource.7.0.2.nupkg.sha512",
+    "C:\\Users\\nicol\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\nicol\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
