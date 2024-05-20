@@ -1,0 +1,75 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Resources\back_button_default.png" />
+    <None Remove="Resources\back_button_hover.png" />
+    <None Remove="Resources\create_player_button_default.png" />
+    <None Remove="Resources\create_player_button_hover.png" />
+    <None Remove="Resources\create_user_menu.png" />
+    <None Remove="Resources\duck.png" />
+    <None Remove="Resources\duckhunt_menu.png" />
+    <None Remove="Resources\duck_play_menu.png" />
+    <None Remove="Resources\grass_background.png" />
+    <None Remove="Resources\hunter_play_menu.png" />
+    <None Remove="Resources\hunter_sprite.png" />
+    <None Remove="Resources\leaderboards_default.png" />
+    <None Remove="Resources\leaderboards_hover.png" />
+    <None Remove="Resources\leaderboards_menu.png" />
+    <None Remove="Resources\leaderboard_menu.png" />
+    <None Remove="Resources\list_players_button_default.png" />
+    <None Remove="Resources\list_players_button_hover.png" />
+    <None Remove="Resources\list_players_menu.png" />
+    <None Remove="Resources\login_default.png" />
+    <None Remove="Resources\login_hovered.png" />
+    <None Remove="Resources\menu_background.png" />
+    <None Remove="Resources\play_default.png" />
+    <None Remove="Resources\play_hover.png" />
+    <None Remove="Resources\quack.wav" />
+    <None Remove="Resources\register_button_default.png" />
+    <None Remove="Resources\register_button_hover.png" />
+    <None Remove="Resources\register_default.png" />
+    <None Remove="Resources\register_hovered.png" />
+    <None Remove="Resources\start_game_button_default.png" />
+    <None Remove="Resources\start_game_button_hover.png" />
+    <None Remove="Resources\xnFh5QX9L9Iu4iu_1EaKW1YJUoZU9EiafgCZwMPO8MI_350x200_3x-0.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MySqlConnector" Version="2.3.7" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Resources\back_button_default.png" />
+    <Resource Include="Resources\back_button_hover.png" />
+    <Resource Include="Resources\create_player_button_default.png" />
+    <Resource Include="Resources\create_player_button_hover.png" />
+    <Resource Include="Resources\create_user_menu.png" />
+    <Resource Include="Resources\duck.png" />
+    <Resource Include="Resources\duckhunt_menu.png" />
+    <Resource Include="Resources\hunter_play_menu.png" />
+    <Resource Include="Resources\grass_background.png" />
+    <Resource Include="Resources\duck_play_menu.png" />
+    <Resource Include="Resources\hunter_sprite.png" />
+    <Resource Include="Resources\leaderboards_default.png" />
+    <Resource Include="Resources\leaderboards_hover.png" />
+    <Resource Include="Resources\leaderboards_menu.png" />
+    <Resource Include="Resources\list_players_button_default.png" />
+    <Resource Include="Resources\list_players_button_hover.png" />
+    <Resource Include="Resources\list_players_menu.png" />
+    <Resource Include="Resources\menu_background.png" />
+    <Resource Include="Resources\play_default.png" />
+    <Resource Include="Resources\play_hover.png" />
+    <Content Include="Resources\quack.wav" />
+    <Resource Include="Resources\register_button_default.png" />
+    <Resource Include="Resources\register_button_hover.png" />
+    <Resource Include="Resources\start_game_button_default.png" />
+    <Resource Include="Resources\start_game_button_hover.png" />
+  </ItemGroup>
+
+</Project>
